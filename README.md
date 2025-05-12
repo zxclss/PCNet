@@ -6,16 +6,24 @@
 **Step 1**: clone this repository:
 
 ```
-git clone **** && cd PCTP
+git clone ****
+# **** will be replaced with the real github link after the paper is accepted.
+# For review stage, reviewer can download the repo in tar type and then 
 ```
 
-**Step 2**: create a conda environment and install the dependencies:
+**Step 2**: change the dir:
+
+```
+cd PCNet
+```
+
+**Step 3**: create a conda environment and install the dependencies:
 ```
 conda env create -f environment.yml
 conda activate PCTP
 ```
 
-**Step 3**: install the [Argoverse 2 API](https://github.com/argoverse/av2-api) and download the [Argoverse 2 Motion Forecasting Dataset](https://www.argoverse.org/av2.html) following the [Argoverse 2 User Guide](https://argoverse.github.io/user-guide/getting_started.html).
+**Step 4**: install the [Argoverse 2 API](https://github.com/argoverse/av2-api) and download the [Argoverse 2 Motion Forecasting Dataset](https://www.argoverse.org/av2.html) following the [Argoverse 2 User Guide](https://argoverse.github.io/user-guide/getting_started.html).
 
 ## Training
 

@@ -8,7 +8,7 @@
 ```
 git clone ****
 # **** will be replaced with the real github link after the paper is accepted.
-# For review stage, reviewer can download the repo in tar type and then 
+# During the review phase, users can download the repo in tar format and then decompress it to obtain the repository.
 ```
 
 **Step 2**: change the dir:

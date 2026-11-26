@@ -6,9 +6,7 @@
 **Step 1**: clone this repository:
 
 ```
-git clone ****
-# **** will be replaced with the real github link after the paper is accepted.
-# During the review phase, users can download the repo in tar format and then decompress it to obtain the repository.
+git clone https://github.com/zxclss/PCNet.git
 ```
 
 **Step 2**: change the dir:
